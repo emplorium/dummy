@@ -8,3 +8,4 @@ const h = 7;
 const i = 8;
 const delete1 = 9;
 const ten = 10;
+const delete2 = 11;

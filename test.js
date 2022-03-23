@@ -6,3 +6,4 @@ const f = 5;
 const g = 6;
 const h = 7;
 const i = 8;
+const delete1 = 9;

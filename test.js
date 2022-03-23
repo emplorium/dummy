@@ -10,3 +10,4 @@ const delete1 = 9;
 const ten = 10;
 const delete2 = 11;
 const twelve = 12;
+const delete3 = 13;
